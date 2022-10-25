@@ -27,7 +27,7 @@ const statistics = [
 const PartenerAndStatistic = () => {
   return (
     <section>
-      <div className="max-w-6xl mx-auto py-28">
+      <div className="max-w-7xl mx-auto py-28">
         <div className="flex flex-col gap-5 justify-center items-center py-10">
           <p className=" text-base text-sky-magnatat font-medium">Statistics</p>
           <h2 className="text-4xl font-bold text-content-green-primary">

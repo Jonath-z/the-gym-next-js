@@ -6,7 +6,7 @@ import FacebookOutlinedIcon from "../../vectors/FacebookOutlinedIcon";
 const Footer = () => {
   return (
     <section className="bg-content-green-primary text-white py-28">
-      <div className="flex justify-between max-w-6xl mx-auto">
+      <div className="flex justify-between max-w-7xl mx-auto">
         <div className="flex flex-col justify-between">
           <div className="flex flex-col gap-5">
             <Link href="/">

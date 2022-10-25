@@ -7,7 +7,7 @@ const ServicesSection = () => {
       <h1 className="text-4xl text-center text-content-green-primary font-bold">
         Innovative Execution
       </h1>
-      <div className="flex justify-between max-w-6xl mx-auto mt-44">
+      <div className="flex justify-between max-w-7xl mx-auto mt-44">
         {services.map((service, index) => {
           return (
             <div key={index} className="flex flex-col gap-5">

@@ -7,7 +7,7 @@ import Button from "../../modules/_modules/Button";
 const PartnersAndAbout = () => {
   return (
     <section className="bg-secondary-bg pb-20 pt-10">
-      <div className="max-w-6xl mx-auto py-10 ">
+      <div className="max-w-7xl mx-auto py-10 ">
         <PartenersLogos />
 
         <div className="grid grid-cols-2 pt-20 gap-16">
