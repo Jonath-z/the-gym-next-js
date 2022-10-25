@@ -8,6 +8,9 @@ module.exports = {
         "content-green-primary": "#486A6F",
         "content-green-secondary": "#678C92",
         "sky-violet": "#C6DBFF",
+        "primary-bg": "#F4F7FF",
+        "sky-magnatat": "#5BCCDE",
+        "secondary-bg": "#E1EBFA",
       },
       fontSize: {
         xsm: "16px",

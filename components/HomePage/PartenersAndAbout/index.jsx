@@ -1,8 +1,8 @@
 /* eslint-disable @next/next/no-img-element */
 import React from "react";
-import PartenersLogos from "../../../modules/_modules/PartenersLogos";
+import PartenersLogos from "../../modules/_modules/PartenersLogos";
 import parternerBuilding from "../../../assets/partnerBuilding.jpeg";
-import Button from "../../../modules/_modules/Button";
+import Button from "../../modules/_modules/Button";
 
 const PartnersAndAbout = () => {
   return (

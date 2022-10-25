@@ -1,6 +1,6 @@
 import React from "react";
-import AboutCard from "../../../modules/cards/AboutCard";
-import Button from "../../../modules/_modules/Button";
+import AboutCard from "../../modules/cards/AboutCard";
+import Button from "../../modules/_modules/Button";
 
 const teamMembers = [
   {

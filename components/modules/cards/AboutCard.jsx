@@ -1,6 +1,6 @@
 /* eslint-disable @next/next/no-img-element */
 import React from "react";
-import cardBg from "../../assets/CardBg.png";
+import cardBg from "../cards/AboutCard";
 
 const AboutCard = ({ content }) => {
   return (

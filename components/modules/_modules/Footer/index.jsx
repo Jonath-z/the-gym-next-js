@@ -1,7 +1,7 @@
 import React from "react";
+import Link from "next/link";
 import InstagramOutlinedIcon from "../../vectors/InstagramOutlinedIcon";
 import FacebookOutlinedIcon from "../../vectors/FacebookOutlinedIcon";
-import Link from "next/link";
 
 const Footer = () => {
   return (

@@ -1,6 +1,6 @@
 /* eslint-disable @next/next/no-img-element */
 import React from "react";
-import Header from "../../../modules/_modules/Header";
+import Header from "../../modules/_modules/Header";
 import aboutImage1 from "../../../assets/aboutHome1.webp";
 import aboutImage2 from "../../../assets/aboutImage2.jpg";
 import aboutHeroBg from "../../../assets/about-hero-bg.png";

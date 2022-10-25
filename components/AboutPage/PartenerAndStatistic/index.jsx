@@ -1,10 +1,10 @@
 /* eslint-disable @next/next/no-img-element */
 import React from "react";
-import HandTouchIcon from "../../../modules/vectors/HandTouchIcon";
-import HouseIcon from "../../../modules/vectors/HouseIcon";
-import LocationIcon from "../../../modules/vectors/LocationIcon";
+import HandTouchIcon from "../../modules/vectors/HandTouchIcon";
+import HouseIcon from "../../modules/vectors/HouseIcon";
+import LocationIcon from "../../modules/vectors/LocationIcon";
 import statisticBg from "../../../assets/statisticBg.png";
-import PartenersLogos from "../../../modules/_modules/PartenersLogos";
+import PartenersLogos from "../../modules/_modules/PartenersLogos";
 
 const statistics = [
   {

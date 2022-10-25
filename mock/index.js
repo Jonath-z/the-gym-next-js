@@ -1,6 +1,6 @@
-import CodeFragmentIcon from "../modules/vectors/CodeFragmentIcon";
-import ServiceFeatureIcon from "../modules/vectors/ServiceFeatureIcon";
-import SpeakerIcon from "../modules/vectors/SpeakerIcon";
+import CodeFragmentIcon from "../components/modules/vectors/CodeFragmentIcon";
+import ServiceFeatureIcon from "../components/modules/vectors/ServiceFeatureIcon";
+import SpeakerIcon from "../components/modules/vectors/SpeakerIcon";
 
 export const services = [
   {

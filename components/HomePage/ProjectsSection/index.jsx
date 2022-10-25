@@ -1,6 +1,6 @@
 /* eslint-disable @next/next/no-img-element */
 import React from "react";
-import Button from "../../../modules/_modules/Button";
+import Button from "../../modules/_modules/Button";
 import projectHome1 from "../../../assets/projectHome1.jpeg";
 import projectHome2 from "../../../assets/projectHome2.webp";
 import projectHome3 from "../../../assets/projectHouse3.jpeg";
