@@ -13,7 +13,7 @@ const Hero = () => {
         alt="about hero image"
         className="absolute w-full h-full top-0 left-0 right-0 -z-10"
       />
-      <div className="max-w-7xl mx-auto">
+      <div className="max-w-6xl mx-auto">
         <Header />
 
         <div className="grid grid-cols-2 justify-center items-center mt-28 px-28">

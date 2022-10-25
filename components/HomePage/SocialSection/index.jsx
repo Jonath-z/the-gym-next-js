@@ -10,7 +10,7 @@ import people from "../../../assets/socialPeople.jpeg";
 const SocialSection = () => {
   return (
     <section className="bg-secondary-bg">
-      <div className="py-20 max-w-7xl mx-auto">
+      <div className="py-20 max-w-6xl mx-auto">
         <div className="flex flex-col gap-5 justify-center items-center py-10">
           <p className=" text-base text-sky-magnatat">Socials</p>
           <h2 className="text-4xl font-bold text-content-green-primary">

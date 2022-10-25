@@ -26,7 +26,7 @@ const HeroSection = () => {
           className="w-full h-full object-cover"
         />
       </div>
-      <div className="max-w-7xl mx-auto">
+      <div className="max-w-6xl mx-auto">
         <Header />
 
         <div className=" grid grid-cols-2 gap-20  mt-20 pb-24">

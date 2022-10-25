@@ -8,7 +8,7 @@ import Button from "../Button";
 const Contact = () => {
   return (
     <div>
-      <div className="grid grid-cols-2 max-w-7xl mx-auto">
+      <div className="grid grid-cols-2 max-w-6xl mx-auto">
         <div className="flex flex-col gap-5">
           <div className="flex flex-col gap-4">
             <p className="text-sky-magnatat ">Contact</p>

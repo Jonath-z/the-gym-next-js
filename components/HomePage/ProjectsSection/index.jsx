@@ -9,7 +9,7 @@ import projectHome4 from "../../../assets/projectHome4.webp";
 const ProjectsSection = () => {
   return (
     <section className="py-32 bg-primary-bg">
-      <div className="grid grid-cols-2 items-center max-w-7xl mx-auto">
+      <div className="grid grid-cols-2 items-center max-w-6xl mx-auto">
         <div className="flex flex-col gap-7 w-[33.7rem] ml-auto">
           <p className="text-sky-magnatat text-base font-medium">
             Available Properties
